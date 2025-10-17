@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54135229303",
+    "project_id": "jadwal-sipalinggo",
+    "storage_bucket": "jadwal-sipalinggo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54135229303:android:409eafc7faec98e3952f72",
+        "android_client_info": {
+          "package_name": "com.example.coba_realtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEvdaz1CPfLoOZDillSZTAu2MSqyVyvRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
